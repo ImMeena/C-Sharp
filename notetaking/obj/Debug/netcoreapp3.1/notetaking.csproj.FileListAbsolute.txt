@@ -1,0 +1,15 @@
+D:\meena\c# project\note taking\notetaking\bin\Debug\netcoreapp3.1\notetaking.exe
+D:\meena\c# project\note taking\notetaking\bin\Debug\netcoreapp3.1\notetaking.deps.json
+D:\meena\c# project\note taking\notetaking\bin\Debug\netcoreapp3.1\notetaking.runtimeconfig.json
+D:\meena\c# project\note taking\notetaking\bin\Debug\netcoreapp3.1\notetaking.runtimeconfig.dev.json
+D:\meena\c# project\note taking\notetaking\bin\Debug\netcoreapp3.1\notetaking.dll
+D:\meena\c# project\note taking\notetaking\bin\Debug\netcoreapp3.1\notetaking.pdb
+D:\meena\c# project\note taking\notetaking\obj\Debug\netcoreapp3.1\notetaking.csproj.AssemblyReference.cache
+D:\meena\c# project\note taking\notetaking\obj\Debug\netcoreapp3.1\notetaking.Form1.resources
+D:\meena\c# project\note taking\notetaking\obj\Debug\netcoreapp3.1\notetaking.csproj.GenerateResource.cache
+D:\meena\c# project\note taking\notetaking\obj\Debug\netcoreapp3.1\notetaking.AssemblyInfoInputs.cache
+D:\meena\c# project\note taking\notetaking\obj\Debug\netcoreapp3.1\notetaking.AssemblyInfo.cs
+D:\meena\c# project\note taking\notetaking\obj\Debug\netcoreapp3.1\notetaking.csproj.CoreCompileInputs.cache
+D:\meena\c# project\note taking\notetaking\obj\Debug\netcoreapp3.1\notetaking.dll
+D:\meena\c# project\note taking\notetaking\obj\Debug\netcoreapp3.1\notetaking.pdb
+D:\meena\c# project\note taking\notetaking\obj\Debug\netcoreapp3.1\notetaking.genruntimeconfig.cache
