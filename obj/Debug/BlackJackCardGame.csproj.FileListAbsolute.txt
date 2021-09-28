@@ -1,0 +1,7 @@
+C:\Users\meena\Desktop\New folder (2)\BlackJackCardGame\bin\Debug\BlackJackCardGame.exe.config
+C:\Users\meena\Desktop\New folder (2)\BlackJackCardGame\bin\Debug\BlackJackCardGame.exe
+C:\Users\meena\Desktop\New folder (2)\BlackJackCardGame\bin\Debug\BlackJackCardGame.pdb
+C:\Users\meena\Desktop\New folder (2)\BlackJackCardGame\obj\Debug\BlackJackCardGame.csproj.AssemblyReference.cache
+C:\Users\meena\Desktop\New folder (2)\BlackJackCardGame\obj\Debug\BlackJackCardGame.csproj.CoreCompileInputs.cache
+C:\Users\meena\Desktop\New folder (2)\BlackJackCardGame\obj\Debug\BlackJackCardGame.exe
+C:\Users\meena\Desktop\New folder (2)\BlackJackCardGame\obj\Debug\BlackJackCardGame.pdb
